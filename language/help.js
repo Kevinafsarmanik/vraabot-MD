@@ -725,6 +725,7 @@ exports.thanksto = () => {
 ├ FatihArridho
 ├ Sanzy
 ├ Kiki
+├ Kevin (jomblo abadi)
 ├ RiychDwayne
 └───────
 `
